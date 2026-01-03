@@ -35,7 +35,7 @@ A Streamlit application that simulates a full-service recruitment team using mul
 1. **Setup Environment**
    ```bash
    # Clone the repository
-    git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+    git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
     cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team
     
    # Install dependencies

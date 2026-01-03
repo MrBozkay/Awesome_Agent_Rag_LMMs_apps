@@ -12,7 +12,7 @@ This Streamlit application implements a fully local ChatGPT-like experience usin
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
 cd awesome-llm-apps/llm_apps_with_memory_tutorials/local_chatgpt_with_memory
 ```
 

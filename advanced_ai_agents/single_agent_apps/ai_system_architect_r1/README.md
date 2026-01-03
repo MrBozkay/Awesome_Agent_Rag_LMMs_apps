@@ -30,7 +30,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+   git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
    cd advanced_ai_agents/single_agent_apps/ai_system_architect_r1
    
    # Install dependencies

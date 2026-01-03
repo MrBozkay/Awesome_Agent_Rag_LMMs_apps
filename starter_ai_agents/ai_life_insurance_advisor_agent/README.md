@@ -21,7 +21,7 @@ You will need API keys for each external service:
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
 ```
 2. Create and activate a virtual environment (optional but recommended).
 
