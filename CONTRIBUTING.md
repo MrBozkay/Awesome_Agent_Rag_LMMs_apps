@@ -17,8 +17,8 @@ To contribute to this project, you will need the following tools installed on yo
 1.  **Fork and Clone the Repository**:
     Use the GitHub CLI to fork and clone the repository:
     ```bash
-    gh repo fork mustafabozkaya/Awesome_Agent_Rag_LMMs_apps --clone
-    cd Awesome_Agent_Rag_LMMs_apps
+    gh repo fork mustafabozkaya/Awesome_Agent_Rag_LLMs_apps --clone
+    cd Awesome_Agent_Rag_LLMs_apps
     ```
 
 2.  **Initialize Environment**:

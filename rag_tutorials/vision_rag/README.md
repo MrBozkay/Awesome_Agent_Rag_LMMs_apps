@@ -26,7 +26,7 @@ Follow these steps to set up and run the application:
 
 1.  **Clone and Navigate to Directory** :
     ```bash
-    git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+    git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
     cd awesome-llm-apps/rag_tutorials/vision_rag
     ```
 

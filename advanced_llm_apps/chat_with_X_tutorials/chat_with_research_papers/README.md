@@ -11,7 +11,7 @@ This Streamlit app enables you to engage in interactive conversations with arXiv
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
 cd awesome-llm-apps/chat_with_X_tutorials/chat_with_research_papers
 ```
 2. Install the required dependencies:

@@ -54,7 +54,7 @@ A RAG Agentic system built with the new Gemini 2.0 Flash Thinking model and gemi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
 cd rag_tutorials/gemini_agentic_rag
 ```
 

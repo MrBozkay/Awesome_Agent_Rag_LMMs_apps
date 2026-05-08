@@ -160,7 +160,7 @@ This project is dedicated to the open-source community. We aim to build and main
 
     ```bash 
     ```bash 
-    git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LMMs_apps.git 
+    git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git 
     ```
 
 2. **Navigate to the desired project directory**
@@ -180,6 +180,6 @@ This project is dedicated to the open-source community. We aim to build and main
 
 ### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MrBozkay/Awesome_Agent_Rag_LMMs_apps&type=Date)](https://star-history.com/#MrBozkay/Awesome_Agent_Rag_LMMs_apps&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=MrBozkay/Awesome_Agent_Rag_LLMs_apps&type=Date)](https://star-history.com/#MrBozkay/Awesome_Agent_Rag_LLMs_apps&Date)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**

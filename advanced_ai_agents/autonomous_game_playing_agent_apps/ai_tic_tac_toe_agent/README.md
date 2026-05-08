@@ -22,7 +22,7 @@ This example shows how to build an interactive Tic Tac Toe game where AI agents 
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+   git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
    cd advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent
 
    # Install dependencies

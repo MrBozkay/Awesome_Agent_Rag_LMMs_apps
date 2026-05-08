@@ -1,5 +1,5 @@
 [project]
-name = "awesome_agent_rag_lmms_apps"
+name = "awesome_agent_rag_LLMs_apps"
 version = "0.1.0"
 description = "Collection of LLM applications and agents"
 readme = "README.md"

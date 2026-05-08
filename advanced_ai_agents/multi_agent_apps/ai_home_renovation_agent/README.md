@@ -1,8 +1,5 @@
 # 🏚️ 🍌 AI Home Renovation Planner Agent 
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-home-renovation-planner-agent-using-nano-banana) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A multi-agent system built with Google ADK that analyzes photos of your space, creates personalized renovation plans, and generates photorealistic renderings using Gemini 2.5 Flash's multimodal capabilities.
 
 ## Features
@@ -37,7 +34,7 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+   git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
    cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent
    ```
 

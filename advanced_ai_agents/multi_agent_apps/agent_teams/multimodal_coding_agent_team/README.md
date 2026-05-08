@@ -36,7 +36,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+   git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
    cd advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team
    ```
 

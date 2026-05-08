@@ -1,8 +1,5 @@
 # AI Financial Coach Agent with Google ADK 💰
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-multi-agent-personal-finance-coach) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 The **AI Financial Coach** is a personalized financial advisor powered by Google's ADK (Agent Development Kit) framework. This app provides comprehensive financial analysis and recommendations based on user inputs including income, expenses, debts, and financial goals.
 
 ## Features
@@ -50,7 +47,7 @@ Follow the steps below to set up and run the application:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Awesome_Agent_Rag_LMMs_apps.git
+   git clone https://github.com/MrBozkay/Awesome_Agent_Rag_LLMs_apps.git
    cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/
    ```
 
