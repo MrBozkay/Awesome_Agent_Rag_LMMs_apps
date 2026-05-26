@@ -4,6 +4,28 @@ Production-ready **AI Agent** using [Pydantic AI](https://github.com/pydantic/py
 
 Agent combines database vitals (heart rate, blood pressure) with LLM reasoning to produce structured, type-safe output: escalation flag + urgency score.
 
+## Demo
+
+![Triage Agent Overview](assets/out.png)
+
+<details>
+<summary>Watch Demo Video 1</summary>
+<video src="assets/paydantic_ai_triage.mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
+</details>
+
+<details>
+<summary>Watch Demo Video 2</summary>
+<video src="assets/paydantic_ai_triage2.mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
+</details>
+
+## Screenshots
+
+**Chat Interface:**  
+![Chat](assets/out_chat.png)
+
+**Test Results:**  
+![Tests](assets/out_test.png)
+
 ---
 
 ## Architecture
