@@ -39,6 +39,7 @@ This project is dedicated to the open-source community. We aim to build and main
 *   [🕸️ Web Scraping AI Agent (Local & Cloud SDK)](starter_ai_agents/web_scrapping_ai_agent/)
 
 ### 🚀 Advanced AI Agents
+*   [🏥 Pydantic AI Hospital Triage Agent](advanced_ai_agents/single_agent_apps/pydantic_ai_triage/)
 *   [🏚️ 🍌 AI Home Renovation Agent with Nano Banana](advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent)
 *   [🔍 AI Deep Research Agent](advanced_ai_agents/single_agent_apps/ai_deep_research_agent/)
 *   [🔬 AI Research Planner & Executor (Multi-Provider)](advanced_ai_agents/single_agent_apps/research_agent_gemini_interaction_api)
